@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2561 semester 1, I worry grade Lap is so bad and I know University kick me out.");
             Console.WriteLine("Year 2561 semester 2, I choose to study subjects Calculus into class schedule.");
             Console.WriteLine("Year 2562 semester 1, I worry again Final exam I Can't do this ");
+            Console.WriteLine("Year 2562 semester 2, I can achieve success without having to rely on a Graduation certificate.");
 
             Console.ReadKey();
 
